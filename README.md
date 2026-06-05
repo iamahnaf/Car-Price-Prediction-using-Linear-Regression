@@ -28,12 +28,12 @@ The model explains approximately **82.6%** of the variance in car prices, indica
 ### Price Distribution
 The histogram below shows the distribution of car prices in the dataset:
 
-![Price Distribution](https://private-user-images.githubusercontent.com/raw/CarPrediction/price_histogram.png)
+![Price Distribution](price_histogram.png)
 
 ### Feature Correlation
 The heatmap below illustrates the correlation between different features:
 
-![Correlation Heatmap](https://private-user-images.githubusercontent.com/raw/CarPrediction/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## Key Findings
 
