@@ -33,7 +33,7 @@ The histogram below shows the distribution of car prices in the dataset:
 ### Feature Correlation
 The heatmap below illustrates the correlation between different features:
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 ## Key Findings
 
