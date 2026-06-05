@@ -1,6 +1,7 @@
 # Ford Car Price Prediction
 
-A machine learning project to predict car prices using linear regression with various car features.
+A machine learning project to predict car prices using linear regression with various car features.                 
+Dataset has been collected from Kaggle -- https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction
 
 ## Dataset
 
@@ -42,14 +43,6 @@ The heatmap below illustrates the correlation between different features:
 - **Engine Size** and **Tax** are important predictors
 - **MPG** affects pricing based on vehicle efficiency
 
-## Technologies Used
-
-- **Python 3.x**
-- **Pandas**: Data manipulation and preprocessing
-- **Scikit-learn**: Machine learning (Linear Regression, StandardScaler)
-- **Seaborn & Matplotlib**: Data visualization
-- **Numpy**: Numerical computations
-
 ## Model Approach
 
 1. **Data Preprocessing**: Handled duplicates and missing values
@@ -57,13 +50,3 @@ The heatmap below illustrates the correlation between different features:
 3. **Feature Selection**: Used mutual information regression for feature importance
 4. **Model**: Linear Regression with train-test split (80-20)
 5. **Evaluation**: R² and Adjusted R² metrics
-
-## Files
-
-- `CarPrediction.ipynb` - Main Jupyter notebook with full analysis
-- `ford.csv` - Dataset with car information
-
----
-
-**Author**: Car Price Prediction Project  
-**Date**: 2024
